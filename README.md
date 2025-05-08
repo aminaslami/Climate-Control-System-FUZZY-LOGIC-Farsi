@@ -1,4 +1,4 @@
-# Climate-Control-System-FUZZY-LOGIC-Farsi (Persian) فارسی
+# Climate Control System FUZZY LOGIC - Farsi (Persian) فارسی
 
 
 ```
