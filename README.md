@@ -59,4 +59,4 @@ PS C:\Users\MAA\.spyder-py3>  c:; cd 'c:\Users\MAA\.spyder-py3'; & 'c:\Users\MAA
 PS C:\Users\MAA\.spyder-py3>
 ```
 
-منبع پروژه: https://chatgpt.com/share/681cd02d-eb74-8009-ae08-ecbb558b6ec5
+منبع پروژه: [https://chatgpt.com/share/681cd02d-eb74-8009-ae08-ecbb558b6ec5](https://chat.deepseek.com/a/chat/s/4e4c887e-cef9-468f-bbe6-539bd2324f0e)
