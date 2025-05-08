@@ -1,7 +1,17 @@
 # Climate Control System FUZZY LOGIC - Farsi (Persian) فارسی
 
 ### کتابخانه‌های ضروری
+  1 - pip install numpy
+  
+  2 - pip install scikit-fuzzy
+  
+  3 - pip install control
+  
+  4 - pip install networkx
 
+  5 - pip install scipy
+
+-----------------------------
 
 
 ```
