@@ -48,6 +48,6 @@ PS C:\Users\MAA\.spyder-py3>  c:; cd 'c:\Users\MAA\.spyder-py3'; & 'c:\Users\MAA
 
 دمای فعلی را وارد کنید (°C):
 PS C:\Users\MAA\.spyder-py3>
-
-
 ```
+
+منبع پروژه: https://chatgpt.com/share/681cd02d-eb74-8009-ae08-ecbb558b6ec5
