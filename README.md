@@ -11,6 +11,8 @@
 
   5 - pip install scipy
 
+![image](https://github.com/user-attachments/assets/2938e228-49d2-41fa-9164-ebe4e617d9a1)
+
 -----------------------------
 **خروجی:**
 
