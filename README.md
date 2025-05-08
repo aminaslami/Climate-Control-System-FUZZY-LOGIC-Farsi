@@ -12,7 +12,7 @@
   5 - pip install scipy
 
 -----------------------------
-
+**خروجی:**
 
 ```
 PS C:\Users\MAA\.spyder-py3>  c:; cd 'c:\Users\MAA\.spyder-py3'; & 'c:\Users\MAA\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\MAA\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '24545' '--' 'c:\Users\MAA\Desktop\climate-control-system_fuzzy-Farsi.py'
